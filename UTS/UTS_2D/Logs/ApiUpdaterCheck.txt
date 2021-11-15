@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 10/11/2021 1:47:30 AM : Starting D:/Smster 5/GamePro/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 21128.4065ms
+moved types parse time: 847ms
+candidates parse time : 125ms
+C# parse time         : 5203ms
+candidates check time : 344ms
+console write time    : 56ms
+
